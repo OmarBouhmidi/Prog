@@ -77,5 +77,7 @@ public class DrawMetode {
 
         //Hei omar
 
+        //hei ilyada
+
     }
 }
