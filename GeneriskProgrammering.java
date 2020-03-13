@@ -3,6 +3,7 @@
 
 import java.util.AbstractList;
 
+//Heisann sveisann
 public class GeneriskProgrammering {
 
     static <T> void skrivUtArray (T[] liste){
