@@ -79,5 +79,6 @@ public class DrawMetode {
 
         //hei ilyada
 
+        // Hei dere
     }
 }
