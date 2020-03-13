@@ -73,7 +73,7 @@ public class DrawMetode {
         former.add(new GroupShape(new Sirkel(),new Sirkel(), new Sirkel()));
 
 
-        Shape.skrivUt(former);
+        Shape.skrivUt(former); hei
 
     }
 }
